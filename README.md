@@ -1,6 +1,6 @@
 <div style.display= "flex" align="center">
 
-### I'm trying to learn coding 💻
+### I'm learning coding 💻
 
 <!--
 **dahyeBlog/dahyeBlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
